@@ -35,3 +35,5 @@ binding = {a:1.5,b:2.5}
 
 c = sess.run(add,feed_dict=binding)
 print(c)
+
+# Test keras
